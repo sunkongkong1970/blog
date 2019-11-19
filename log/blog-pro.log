@@ -1,0 +1,6 @@
+2019-07-03 11:42:46.909  INFO 10400 --- [restartedMain] com.skk.blog.BlogApplication             : Starting BlogApplication on DESKTOP-O2AVR0J with PID 10400 (F:\blog\target\classes started by 孙空空 in F:\blog)
+2019-07-03 11:42:46.915  INFO 10400 --- [restartedMain] com.skk.blog.BlogApplication             : The following profiles are active: pro
+2019-07-03 11:42:49.030  WARN 10400 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-07-03 11:42:50.420  WARN 10400 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-07-03 11:42:50.503  WARN 10400 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-07-03 11:42:50.742  INFO 10400 --- [restartedMain] com.skk.blog.BlogApplication             : Started BlogApplication in 4.689 seconds (JVM running for 6.059)
